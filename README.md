@@ -1,4 +1,4 @@
 **to install paste this url into shell** 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/mdsameer2924/fnpath-apt/refs/heads/main/install.bash | bash
+curl -fsSL https://mdsameer2924.github.io/fnpath-apt/install.bash | bash
 ```
