@@ -1,0 +1,12 @@
+Package: fnpath
+Version: 1.0.0
+Architecture: all
+Maintainer: Mohd Sameer <mdsameer2681@gmail.com>
+Depends: bash
+Filename: ./fnpath_1.0.0_all.deb
+Size: 1088
+MD5sum: a3cbe99996247e668166c5c6508bebf5
+SHA1: f9c1a56b62871a3b6e0aec5bf3ee6736fd2a5390
+SHA256: 5cb97274d85fef34c61af085fa3b4b2d02ab4c48c6b65bc51c9e7f7c18c24e5e
+Description: My personal Bash automation CLI tool
+

@@ -1,0 +1,5 @@
+Types: deb
+URIs: https://mdsameer2924.github.io/fnpath-apt
+Suites: ./
+Components:
+Signed-By: /usr/share/keyrings/fnpath-archive-keyring.gpg
